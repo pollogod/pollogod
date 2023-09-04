@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">pollogod</a> 👋</h1>
+<h1 align="center">Hola, soy pollogod 👋</h1>
 </div>
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@PolloGang)
-![Discord Shield](https://discordapp.com/api/guilds/981288978416300053/widget.png?style=shield)
+[![Discord Shield](https://dcbadge.vercel.app/api/server/pollogang-oficial-981288978416300053)](https://discord.gg/pollogang-oficial-981288978416300053)
 
 ## Sobre mi
 
